@@ -1,4 +1,4 @@
-#RSNA Pneumonia Detection Detection - Capstone Project
+RSNA Pneumonia Detection Detection - Capstone Project
 
 Capstone Project completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning.
 
