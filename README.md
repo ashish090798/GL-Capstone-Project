@@ -6,4 +6,4 @@ Getting Started:
 
 The project is built on Google Colab Jupyter Notebook. Clone this repository to get started, as mentioned below. 
 
-https://github.com/ashish090798/GL-Capstone-Project
+https://github.com/ashish090798/GL-Capstone-Project.git
