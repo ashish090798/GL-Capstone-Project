@@ -1,0 +1,12 @@
+Flask==1.1.2
+keras==2.9.0
+matplotlib
+numpy
+opencv_python_headless
+pandas
+Pillow==9.2.0
+pydicom==2.3.0
+scikit-image
+scikit-learn
+seaborn
+tensorflow==2.9.1
